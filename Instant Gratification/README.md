@@ -1,29 +1,24 @@
-# [Santander Customer Transaction Prediction]( https://www.kaggle.com/c/santander-customer-transaction-prediction )
+# [Instant Gratification]( https://www.kaggle.com/c/instant-gratification/overview )
 
-![](https://drive.google.com/uc?export=view&id=1F6psWqrJzLkYUdK5AwjK5Mm8vLzW1e8H)
+![](https://drive.google.com/uc?export=view&id=13WiJAbB1eVdeZojqKFCNtSkls9bf4m0i)
 
 ## Abstract 
 
-- Host : Santander
-- Objective : Can you identify who will make a transaction? (Classification) 
+- Host : Kaggle 
+- Objective : A synchronous Kernels-only competition
 - Evaluation : AUC
-- Period :  2019.2.01 ~ 2019.04.10
-
-At [Santander](https://www.santanderbank.com/) our mission is to help people and businesses prosper. We are always looking for ways to help our customers understand their financial health and identify which products and services might help them achieve their monetary goals.
-
-Our data science team is continually challenging our machine learning algorithms, working with the global data science community to make sure we can more accurately identify new ways to solve our most common challenge, binary classification problems such as: is a customer satisfied? Will a customer buy this product? Can a customer pay this loan?
-
-In this challenge, we invite Kagglers to help us identify which customers will make a specific transaction in the future, irrespective of the amount of money transacted. The data provided for this competition has the same structure as the real data we have available to solve this problem.
+- Period :  2019.05.21 ~ 2019.06.20
 
 ## Result 
 
-- 0.4% Rank (38/8802)
+- 4% Rank (70/1832)
 
-![](https://drive.google.com/uc?export=view&id=1NUXoYyOiDKo7E6UtzhSQX1dQdYjTWrDp)
+![](https://drive.google.com/uc?export=view&id=17W3OLw22PBKGBENRut7YwOTdOQjNdMjO)
 
 | submission | Public LB | Rank | Private LB | Rank |
 | :--------: | :-------: | :--: | :--------: | :--: |
-|   Model1   |  0.92399  |  32  |  0.92245   |  38  |
+|   Model1   |  0.97491  |  19  |  0.97536   |  70  |
+|    Best    |  0.97432  |  -   |  0.97611   |  1   |
 
 ## Fold
 
@@ -44,7 +39,7 @@ In this challenge, we invite Kagglers to help us identify which customers will m
 
 **[Data]**
 
-Place data in `input` directory. You can download data from [here]( https://www.kaggle.com/c/santander-customer-transaction-prediction/data)
+Place data in `input` directory. You can download data from [here]( https://www.kaggle.com/c/instant-gratification/data)
 
 **[Code]** 
 
@@ -58,5 +53,5 @@ Make sure you are on windows with library versions same as specified in [require
 
 **[Submit]**
 
-Submit the resulting csv file [here]( https://www.kaggle.com/c/santander-customer-transaction-prediction/submit ) and verify the [score]( https://www.kaggle.com/c/santander-customer-transaction-prediction/leaderboard )
+Submit the resulting csv file [here]( https://www.kaggle.com/c/instant-gratification/submit ) and verify the [score]( https://www.kaggle.com/c/instant-gratification/leaderboard )
 
