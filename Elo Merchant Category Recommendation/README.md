@@ -23,8 +23,6 @@ In this competition, Kagglers will develop algorithms to identify and serve the 
 
 | submission | Public LB | Rank | Private LB | Rank |
 |:----------:|:---------:|:----:|:----------:|:----:|
-|   Model1   |     -     |   -  |      -     |   -  |
-|   Model2   |     -     |   -  |      -     |   -  |
 |  Ensemble1 |  3.64604  |  10  |   3.61587  |  978 |
 |  Ensemble2 |  3.65602  |  20  |   3.60859  |  86  |
 |    Best    |  3.67812  |  193 |   3.60389  |  34  |
