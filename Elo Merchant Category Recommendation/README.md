@@ -21,7 +21,6 @@ In this competition, Kagglers will develop algorithms to identify and serve the 
 
 ![](https://drive.google.com/uc?export=view&id=1CUCI13QSTDnR2eklHwRus2shqmm4CTUk)
 
-```markdown
 | submission | Public LB | Rank | Private LB | Rank |
 |:----------:|:---------:|:----:|:----------:|:----:|
 |   Model1   |     -     |   -  |      -     |   -  |
@@ -29,7 +28,6 @@ In this competition, Kagglers will develop algorithms to identify and serve the 
 |  Ensemble1 |  3.64604  |  10  |   3.61587  |  978 |
 |  Ensemble2 |  3.65602  |  20  |   3.60859  |  86  |
 |    Best    |  3.67812  |  193 |   3.60389  |  34  |
-```
 
 ## Fold
 
@@ -65,7 +63,7 @@ Above results can be replicated by running
 python code/main.py 
 ```
 
-Make sure you are on windows with library versions same as specified in [requirements.txt]()
+Make sure you are on windows with library versions same as specified in [requirements.txt](https://github.com/choco9966/Kaggle/blob/master/Elo%20Merchant%20Category%20Recommendation/requirements.txt)
 
 **[Submit]**
 
