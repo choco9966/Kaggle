@@ -1,4 +1,7 @@
 # Kaggle
+[Hyun woo Kim](https://www.kaggle.com/chocozzz)
+- Competitions Expert
+- Kernel Expert
 
 Kaggle Competition
 
@@ -9,4 +12,6 @@ Kaggle Competition
 - [Microsoft Malware Prediction](https://www.kaggle.com/c/microsoft-malware-prediction): Top 2% (40/2426)
 - [Elo Merchant Category Recommendation](https://www.kaggle.com/c/elo-merchant-category-recommendation) : Top 3% (86/4129)
 - [KUC (Kaggle University Hackathon) Winner Interview](http://blog.kaggle.com/2019/01/14/kuc-teameda/?utm_medium=social&utm_source=twitter.com&utm_campaign=kuc-winnerinterview-3)
+
+
 
