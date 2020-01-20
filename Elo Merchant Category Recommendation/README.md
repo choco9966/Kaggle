@@ -1,31 +1,30 @@
-# [Elo Merchant Category Recommendation]( https://www.kaggle.com/c/elo-merchant-category-recommendation/overview )
+# [Instant-gratification]( https://www.kaggle.com/c/instant-gratification/ )
 
-![](https://drive.google.com/uc?export=view&id=1M2sW7AR91uV25P86wC92bBjhwMe1uci3)
+![](https://drive.google.com/uc?export=view&id=13WiJAbB1eVdeZojqKFCNtSkls9bf4m0i)
 
 ## Abstract 
 
-- Host : Elo
-- Objective : Predicted loyalty score of customers (Regression)
-- Evaluation : RMSE 
-- Period :  2018.11.01 ~ 2019.01.30
+- Host : Kaggle 
+- Objective : A synchronous Kernels only Competition (Kernel Test)
+- Evaluation : AUC
+- Period :  2019.05.21 ~ 2019.06.20
 
-Imagine being hungry in an unfamiliar part of town and getting restaurant recommendations served up, based on your personal preferences, at just the right moment. The recommendation comes with an attached discount from your credit card provider for a local place around the corner!
+Welcome to Instant (well, *almost*) Gratification!
 
-Right now, [Elo](https://www.cartaoelo.com.br/), one of the largest payment brands in Brazil, has built partnerships with merchants in order to offer promotions or discounts to cardholders. But do these promotions work for either the consumer or the merchant? Do customers enjoy their experience? Do merchants see repeat business? Personalization is key.
+In 2015, Kaggle introduced Kernels as a resource to competition participants. It was a controversial decision to add a code-sharing tool to a competitive coding space. We thought it was important to make Kaggle more than a place where competitions are solved behind closed digital doors. Since then, Kernels has grown from its infancy--essentially a blinking cursor in a docker container--into its teenage years. We now have more compute, longer runtimes, better datasets, GPUs, and an improved interface.
 
-Elo has built machine learning models to understand the most important aspects and preferences in their customers’ lifecycle, from food to shopping. But so far none of them is specifically tailored for an individual or profile. This is where you come in.
-
-In this competition, Kagglers will develop algorithms to identify and serve the most relevant opportunities to individuals, by uncovering signal in customer loyalty. Your input will improve customers’ lives and help Elo reduce unwanted campaigns, to create the right experience for customers.
+We have iterated and tested several Kernels-only (KO) competition formats with a true holdout test set, in particular deploying them when we would have otherwise substituted a [two-stage competition](https://www.kaggle.com/two-stage-frequently-asked-questions). However, the experience of submitting to a Kernels-only competition has typically been asynchronous and imperfect; participants wait many days after a competition has concluded for their selected Kernels to be rerun on the holdout test dataset, the leaderboard updated, and the winners announced. This flow causes heartbreak to participants whose Kernels fail on the unseen test set, leaving them with no way to correct tiny errors that spoil months of hard work.
 
 ## Result 
 
-![](https://drive.google.com/uc?export=view&id=1CUCI13QSTDnR2eklHwRus2shqmm4CTUk)
+- 4% Rank (70/1832) 
+
+![](https://drive.google.com/uc?export=view&id=17W3OLw22PBKGBENRut7YwOTdOQjNdMjO)
 
 | submission | Public LB | Rank | Private LB | Rank |
-|:----------:|:---------:|:----:|:----------:|:----:|
-|  Ensemble1 |  3.64604  |  10  |   3.61587  |  978 |
-|  Ensemble2 |  3.65602  |  20  |   3.60859  |  86  |
-|    Best    |  3.67812  |  193 |   3.60389  |  34  |
+| :--------: | :-------: | :--: | :--------: | :--: |
+|   Model1   |  0.97491  |  19  |  0.97536   |  70  |
+|    Best    |  0.97432  |  -   |  0.97611   |  1   |
 
 ## Fold
 
@@ -33,14 +32,10 @@ In this competition, Kagglers will develop algorithms to identify and serve the 
 .
 ├── code
 │   ├── EDA
-│   │   └── 1. Data Exploratory Analysis.ipynb
-│   ├── PREPROCESSING
-│   │   └── 2. Preprocessing.ipynb
-│   ├── FEATURES
-│   │   └── 3. Features.ipynb
+│   │   └── Data Exploratory Analysis.ipynb
 │   ├── MODEL
-|   │   └── 4. Modeling_Lightgbm_Model1.ipynb
-|   │   └── 4. Modeling_Lightgbm_Model2.ipynb
+|   │   └── Model.ipynb
+|   │   └── Best.ipynb
 ├── Solution
 │   ├── Code
 │   ├── Discussion
@@ -51,7 +46,7 @@ In this competition, Kagglers will develop algorithms to identify and serve the 
 
 **[Data]**
 
-Place data in `input` directory. You can download data from [here]( https://www.kaggle.com/c/elo-merchant-category-recommendation/data)
+Place data in `input` directory. You can download data from [here]( https://www.kaggle.com/c/instant-gratification/data)
 
 **[Code]** 
 
