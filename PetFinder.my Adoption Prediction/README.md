@@ -27,37 +27,3 @@ Top participants may be invited to collaborate on implementing their solutions i
 | :--------: | :-------: | :--: | :--------: | :--: |
 |   Model1   |     -     |  -   |  0.42940   |  70  |
 |   Model2   |     -     |  -   |  0.43129   |  52  |
-
-## Fold
-
-```
-.
-├── code
-│   ├── MODEL
-|   │   └── Model1.ipynb
-|   │   └── Model2.ipynb
-├── Solution
-│   ├── Code
-│   ├── Discussion
-└── Experience
-```
-
-## How to Run 
-
-**[Data]**
-
-Place data in `input` directory. You can download data from [here]( https://www.kaggle.com/c/petfinder-adoption-prediction/data )
-
-**[Code]** 
-
-Above results can be replicated by running 
-
-```
-python code/main.py 
-```
-
-Make sure you are on windows with library versions same as specified in [requirements.txt](https://github.com/choco9966/Kaggle/blob/master/Elo%20Merchant%20Category%20Recommendation/requirements.txt)
-
-**[Submit]**
-
-Submit the resulting csv file [here]( https://www.kaggle.com/c/petfinder-adoption-prediction/submit ) and verify the [score]( https://www.kaggle.com/c/petfinder-adoption-prediction/leaderboard )

@@ -19,39 +19,3 @@
 | :--------: | :-------: | :--: | :--------: | :--: |
 |   Model1   |  0.97491  |  19  |  0.97536   |  70  |
 |    Best    |  0.97432  |  -   |  0.97611   |  1   |
-
-## Fold
-
-```
-.
-├── code
-│   ├── EDA
-│   │   └── Data Exploratory Analysis.ipynb
-│   ├── MODEL
-|   │   └── Model.ipynb
-├── Solution
-│   ├── Code
-│   ├── Discussion
-└── Experience
-```
-
-## How to Run 
-
-**[Data]**
-
-Place data in `input` directory. You can download data from [here]( https://www.kaggle.com/c/instant-gratification/data)
-
-**[Code]** 
-
-Above results can be replicated by running 
-
-```
-python code/main.py 
-```
-
-Make sure you are on windows with library versions same as specified in [requirements.txt](https://github.com/choco9966/Kaggle/blob/master/Elo%20Merchant%20Category%20Recommendation/requirements.txt)
-
-**[Submit]**
-
-Submit the resulting csv file [here]( https://www.kaggle.com/c/instant-gratification/submit ) and verify the [score]( https://www.kaggle.com/c/instant-gratification/leaderboard )
-
