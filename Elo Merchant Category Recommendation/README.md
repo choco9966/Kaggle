@@ -1,4 +1,4 @@
-# [IEEE-CIS Fraud Detection]( https://www.kaggle.com/c/ieee-fraud-detection)
+# [Elo Merchant Category Recommendation](https://www.kaggle.com/c/elo-merchant-category-recommendation)
 
 ![](https://drive.google.com/uc?export=view&id=1M2sW7AR91uV25P86wC92bBjhwMe1uci3)
 
