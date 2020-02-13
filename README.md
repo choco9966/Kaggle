@@ -1,10 +1,9 @@
 # Kaggle
 [Hyun woo Kim](https://www.kaggle.com/chocozzz)
-
 - Competitions Expert
 - Kernel Expert
 
-
+![](https://github.com/choco9966/Kaggle/blob/master/profile.PNG)
 
 Kaggle Competition
 
