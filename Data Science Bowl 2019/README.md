@@ -1,6 +1,6 @@
 # [2019 Data Science Bowl]( https://www.kaggle.com/c/data-science-bowl-2019/overview )
 
-![]()
+![](https://github.com/choco9966/Kaggle/blob/master/Data%20Science%20Bowl%202019/image/header.png)
 
 ## Abstract 
 
@@ -41,4 +41,4 @@ In the PBS KIDS Measure Up! app, children ages 3 to 5 learn early STEM concepts 
 
 - Top 8% (261/3497)
 
-![]()
+![](https://github.com/choco9966/Kaggle/blob/master/Data%20Science%20Bowl%202019/image/result.PNG)
