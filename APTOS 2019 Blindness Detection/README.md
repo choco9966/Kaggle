@@ -1,6 +1,6 @@
 # [APTOS 2019 Blindness Detection](https://www.kaggle.com/c/aptos2019-blindness-detection)
 
-![]()
+![](https://github.com/choco9966/Kaggle/blob/master/APTOS%202019%20Blindness%20Detection/image/header.png)
 
 ## Abstract 
 
@@ -14,4 +14,4 @@
 
 ## Result 
 
-![]()
+![](https://github.com/choco9966/Kaggle/blob/master/APTOS%202019%20Blindness%20Detection/image/result.PNG)
