@@ -7,7 +7,7 @@
 - Host : PetFinder.my 
 - Objective : How cute is that doggy in the shelter? (Multi Classification)
 - Evaluation : Kappa
-- Period :  2019.03.01 ~ 2019.03.28
+- Period :  2019.03.01 ~ 2019.05.28
 
 Millions of stray animals suffer on the streets or are euthanized in shelters every day around the world. If homes can be found for them, many precious lives can be saved — and more happy families created.
 
